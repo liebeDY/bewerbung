@@ -1,0 +1,72 @@
+{
+  "koeln": {
+    "Allgemein" : [
+      {
+        "No.": 1,
+        "Url": "https://www.hfmt-koeln.de/studieninteressierte/bewerben/",
+        "info": "원서 접수 페이지"
+      }, 
+      {
+        "No.": 2,
+        "Url": "https://www.hfmt-koeln.de/studierende/termine-und-fristen/bewerbungsfristen/",
+        "info": "원서 접수 기한"
+      }
+    ],
+    "bewerbungsFristInfo": 
+    {
+      "url": "https://www.hfmt-koeln.de/studierende/termine-und-fristen/bewerbungsfristen/",
+      "tagname": [
+        "#c9071"
+      ] 
+    },
+    "bewerbungMainInfo":
+    {
+      "url": "https://www.hfmt-koeln.de/studieninteressierte/bewerben/",
+      "tagname": [
+        "#c9169", "#c12861"
+      ]
+    }
+  },
+
+  "duesseldorf": {
+    "Allgemein": [
+      {
+        "No.": 1,
+        "Url": "https://www.rsh-duesseldorf.de/studienbewerbung/bewerbungsverfahren/fragen-zur-bewerbung/",
+        "info": "접수 메인 페이지"
+      },
+      {
+        "No.": 2,
+        "Url": "https://www.rsh-duesseldorf.de/studienbewerbung/fristen-und-termine/bewerbungsfristen-bachelor/",
+        "info": "바첼러 원서 접수 기간"
+      },
+      {
+        "No.": 3,
+        "Url": "https://www.rsh-duesseldorf.de/studienbewerbung/fristen-und-termine/bewerbungsfristen-master-und-exzellenzstudiengaenge/",
+        "info": "마스터 원서 접수 기간"
+      }
+
+    ],
+    "bewerbungsFristInfo": [
+      {
+        "url": "https://www.rsh-duesseldorf.de/studienbewerbung/fristen-und-termine/bewerbungsfristen-bachelor/",
+        "tagname": [
+          "standard-right"
+        ]
+      },
+      {
+        "url": "https://www.rsh-duesseldorf.de/studienbewerbung/fristen-und-termine/bewerbungsfristen-master-und-exzellenzstudiengaenge/",
+        "tagname": [
+          "standard-right"
+        ]
+      }
+    ],
+    "bewerbungMainInfo": {
+      "url": "https://www.rsh-duesseldorf.de/studienbewerbung/bewerbungsverfahren/fragen-zur-bewerbung/",
+      "tagname": [
+        "standard-right"
+      ]
+    }
+  }
+  
+}
